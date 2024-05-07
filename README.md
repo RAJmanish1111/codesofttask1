@@ -1,5 +1,9 @@
 # codesofttask1
 This project is about game.
+<br>
+A  simple console-based Tic-Tac-Toe game that
+allows two players to play against each other.
+
 
 #include <iostream>
 #include <vector>
